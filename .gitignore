@@ -1,0 +1,31 @@
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary & duplicate preview files created during drafting
+dashboard_v2.html
+dashboard_real_photo.html
+dashboard_kakao.html
+nb_test.jpg
+nb_real.jpg
+*.tmp
+*.bak
+*.log
+
+# Secrets, credentials & personal data (safety guard)
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*secret*
+*token*
+*credential*
+*password*
